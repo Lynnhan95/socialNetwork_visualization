@@ -1,0 +1,234 @@
+[
+
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":"Michalski and Welp"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+  {
+     "name":"Scott Benzing"
+    ,"size":3
+    ,"imports":["Kimberly Marion Suiseeya","Forestry and Natural Resources","Political Science"]
+    ,"exports":[]
+    ,"description":"<h3>Scott Benzing</h3><p>Is an undergraduate student in Forestry and Natural Resources, Political Science Department.<br>He took class and served as RA for Kimberly Marion Suiseeya.</p>"
+    ,"rect1":"1"
+    ,"rect2":"0"  
+  },
+  {
+     "name":"Suraya Williams"
+    ,"size":3
+    ,"imports":["Kimberly Marion Suiseeya","EEE Biology","Political Science"]
+    ,"exports":[]
+    ,"description":"<h3>Suraya Williams</h3><p>Is an undergraduate student in Ecology, Evolution, and Environmental Biology, Political Science Department.<br>He took class with Kimberly Marion Suiseeya.</p>"
+    ,"rect1":"1"
+    ,"rect2":"0"
+  },
+  {
+     "name":"Kate Yeater"
+    ,"size":3
+    ,"imports":["Laura Zanotti","Kimberly Marion Suiseeya","Anthropology","Political Science"]
+    ,"exports":[]
+    ,"description":"<h3>Kate Yeater</h3><p>Is a graduate student in Anthropology, Political Science Department.<br>She took class with Laura Zanotti and Kimberly Marion Suiseeya, served as RA for Faculty Kimberly Marion Suiseeya, Laura Zanotti chair of committee and Kimberly Marion Suiseeya on committee.</p>"
+    ,"rect1":"0"
+    ,"rect2":"1"
+  },
+  {
+     "name":"Kate Haapala"
+    ,"size":3
+    ,"imports":["Kimberly Marion Suiseeya","Political Science","Ecological Science and Engineering"]
+    ,"exports":[]
+    ,"description":"<h3>Kate Haapala</h3><p>Is a graduate student in Political Science , Ecological Science and Engineering Department.<br>She took class and served as RA for Kimberly Marion Suiseeya, Kimberly Marion Suiseeya chair of committee.</p>"
+    ,"rect1":"0"
+    ,"rect2":"1"
+  },
+  {
+     "name":"Elizabeth Wulbrecht"
+    ,"size":3
+    ,"imports":["Laura Zanotti","Kimberly Marion Suiseeya","Political Science"]
+    ,"exports":[]
+    ,"description":"<h3>Elizabeth Wulbrecht</h3><p>Is a graduate student in Political Science Department.<br>She took class with Laura Zanotti and Kimberly Marion Suiseeya.</p>"
+    ,"rect1":"1"
+    ,"rect2":"1"
+  },
+  {
+     "name":"Sarah Huang"
+    ,"size":3
+    ,"imports":["Laura Zanotti","Kimberly Marion Suiseeya","Anthropology","Ecological Science and Engineering"]
+    ,"exports":[]
+    ,"description":"<h3>Sarah Huang</h3><p>Is a PhD graduate student in Anthropology, Ecological Science and Engineering Department.<br>She took class and served as RA for Laura Zanotti and Kimberly Marion Suiseeya, Laura Zanotti chaiir of committee.</p>"
+    ,"rect1":"1"
+    ,"rect2":"1"
+  },
+
+  {
+     "name":"Savannah Schulze"
+    ,"size":3
+    ,"imports":["Laura Zanotti","Kimberly Marion Suiseeya","Anthropology"]
+    ,"exports":[]
+    ,"description":"<h3>Savannah Schulze</h3><p>Is a PhD graduate student in Anthropology Department.<br>He took class and served as RA for Laura Zanotti and Kimberly Marion Suiseeya, Laura Zanotti and Kimberly Marion Suiseeya on committee.</p>"
+    ,"rect1":"0"
+    ,"rect2":"1"
+  },
+
+  {
+     "name":"Fernando Tormos"
+    ,"size":3
+    ,"imports":["Kimberly Marion Suiseeya","Political Science"]
+    ,"exports":[]
+    ,"description":"<h3>Fernando Tormos</h3><p>Is a PhD graduate student in Political Science Department.<br>Kimberly Marion Suiseeya is on committee.</p>"
+    ,"rect1":"1"
+    ,"rect2":"0"
+  },
+
+
+
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":"Michalski and Welp"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":"Michalski and Welp"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+  {
+     "name":"  "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":"Michalski and Welp"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+
+    
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":"Michalski and Welp"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+    
+  {
+     "name":"Anthropology"
+    ,"size":2
+    ,"imports":["Laura Zanotti","Kimberly Marion Suiseeya","Kate Yeater","Sarah Huang","Savannah Schulze"]
+    ,"exports":[]
+    ,"description":"<h3></h3><p></p>"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+
+
+  {
+     "name":"Ecological Science and Engineering"
+    ,"size":2
+    ,"imports":["Laura Zanotti","Kimberly Marion Suiseeya","Kate Haapala","Sarah Huang"]
+    ,"exports":[]
+    ,"description":"<h3></h3><p></p>"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+
+  {
+     "name":"Political Science"
+    ,"size":2
+    ,"imports":["Kimberly Marion Suiseeya","Scott Benzing","Suraya Williams","Kate Yeater","Kate Haapala","Elizabeth Wulbrecht","Fernando Tormos"]
+    ,"exports":[]
+    ,"description":"<h3></h3><p></p>"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+
+  {
+     "name":"Forestry and Natural Resources"
+    ,"size":2
+    ,"imports":["Scott Benzing"]
+    ,"exports":[]
+    ,"description":"<h3></h3><p></p>"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+    {
+     "name":"EEE Biology"
+    ,"size":2
+    ,"imports":["Suraya Williams"]
+    ,"exports":[]
+    ,"description":"<h3>EEE Biology</h3><p>Ecology, Evolution, and Environmental Biology.</p>"
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+
+
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":" "
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+    {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":" "
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+  {
+     "name":"   "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":" "
+    ,"rect1":" "
+    ,"rect2":" "
+  },
+    
+  {
+     "name":"Kimberly Marion Suiseeya"
+    ,"size":1
+    ,"imports":["Scott Benzing","Suraya Williams","Kate Yeater","Kate Haapala","Elizabeth Wulbrecht","Sarah Huang","Savannah Schulze","Fernando Tormos","Political Science","Anthropology","Ecological Science and Engineering"]
+    ,"exports":[]
+    ,"description":"<h3>Kimberly Marion Suiseeya</h3><p>Is in Department Political Science, Anthropology, Ecological Science and Engineering.<br>Had as students PhD Sarah Huang and Savannah Schulze, Kate Haapala and Elizabeth Wulbrecht, and Undergraduate Scott Benzing, Suraya Williams and Kate Yeater in course; on committee or chair PhD Graduate Student Savannah Schulze and PhD Graduate Student Fernando Tormos.</p>"
+    ,"rect1":"1"
+    ,"rect2":"1"
+  },
+  {
+     "name":"Laura Zanotti"
+    ,"size":1
+    ,"imports":["Kate Yeater","Elizabeth Wulbrecht","Sarah Huang","Savannah Schulze","Anthropology","Ecological Science and Engineering"]
+    ,"exports":[]
+    ,"description":"<h3>Laura Zanotti</h3><p>Is in Department Anthropology, Ecological Science and Engineering.<br>Had as students PhD Student Sarah Huang and Savannah Schulze, MA student Elizabeth Wulbrecht, and Undergraduate Student Kate Yeater in course; on committee or chair PhD Graduate Student Sarah Huang and PhD Graduate Student Savannah Schulze.</p>"
+    ,"rect1":"1"
+    ,"rect2":"1"
+  },
+      {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+    ,"description":""
+    ,"rect1":" "
+    ,"rect2":" "
+  }
+]

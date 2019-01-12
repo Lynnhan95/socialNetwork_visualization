@@ -1,0 +1,187 @@
+.node {
+  font: 300 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  fill: #bbb;
+}
+
+.node:hover {
+  font-size: 18px;
+  fill: #000;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.node1 {
+  font: 500 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  fill: #315ea2;
+}
+
+.node1:hover {
+  font-size: 15px;
+  fill: #315ea2;
+  font-weight: 700;
+  cursor:pointer
+}
+
+.node2 {
+  font: 500 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  fill: #287a4d;
+}
+
+.node2:hover {
+  font-size: 15px;
+  fill: #287a4d;
+  font-weight: 700;
+  cursor:pointer;
+}
+
+.node3 {
+  font: 500 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  fill: #da4c31;
+}
+
+.node3:hover {
+  font-size: 15px;
+  fill: #da4c31;
+  font-weight: 700;
+  cursor:pointer
+}
+.node--source:hover{
+  cursor:pointer
+}
+
+.node--target:hover{
+  cursor:pointer;
+}
+
+svg text{
+  cursor: pointer;
+}
+.link {
+  stroke: #cccccc;
+  stroke-opacity: 0.5;
+  fill: none;
+  pointer-events: none;
+}
+
+.link2 {
+  stroke: #cccccc;
+  stroke-opacity: 0.5;
+  fill: none;
+  pointer-events: none;
+}
+
+.node:hover,
+.node--source,
+.node--target {
+  font-weight: 700;
+}
+
+/*.node--source {
+  fill: #2ca02c;
+}*/
+
+/*.node--target {
+  fill: #d62728;
+}*/
+
+.link--source,
+.link--target {
+  stroke-opacity: 1;
+  stroke-width: 1.5px;
+}
+
+.link--source {
+  stroke: #7f7f7f;
+}
+
+.link--target {
+  stroke: #7f7f7f;
+}
+
+.link2--source,
+.link2--target {
+  stroke-opacity: 1;
+  stroke-width: 2px;
+}
+
+.link2--source {
+  stroke: #da4c31;
+}
+
+.link2--target {
+  stroke: #da4c31;
+}
+
+body {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#legend {
+  margin: auto;
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.bigLabel{
+    font-size:32px;
+    opacity: 0.2;
+    font-weight: 700;
+}
+
+.flexDiv{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+}
+.mainSvg{
+  
+}
+
+.wrapper{
+ display:flex;
+ flex-direction: column;
+ align-self: center;
+}
+#proj_desc{
+  width: 400px;
+  height: 200px;
+  margin: auto;
+
+}
+
+.CEETeam{
+  width:500px;
+  height:50px;
+}
+
+.CEETeam rect{
+  width:180px;
+  height:10px;
+  display: inline-block;
+  fill:fill:#315EA2
+}
+.CEETeam .chart{
+  display: none;  
+}
+.CEETeam text{
+  font-size: 15px;
+  fill:#ccc;
+}
+.content h2{
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+.content p{
+  font-size: 15px;
+  font-weight: 300px;
+  line-height: 18px;
+}
+
+div{
+  text-align: left;
+}

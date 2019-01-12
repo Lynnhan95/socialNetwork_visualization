@@ -1,0 +1,292 @@
+[
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+  },
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+  },
+  {
+     "name":"Bowling"
+    ,"size":3
+    ,"imports":["Data Mining","Physical Analysis","Undecided"]
+    ,"exports":[]
+  },
+
+  {
+     "name":"Deering and Oliver"
+    ,"size":3
+    ,"imports":["Toxological"]
+    ,"exports":[]
+  },
+  {
+     "name":"Ebert"
+    ,"size":3
+    ,"imports":["Undecided","Survey"]
+    ,"exports":[]
+  },
+  {
+     "name":"Elwakil"
+    ,"size":3
+    ,"imports":["Data Mining","Questionaire/Survey"]
+    ,"exports":[]
+  },
+  {
+     "name":"Filley"
+    ,"size":3
+    ,"imports":["Data Mining","Physical Analysis","Nutrients","Heavy Metal","Organic Matter Quality"]
+    ,"exports":[]
+  },
+  {
+     "name":"Frisbee and Welp"
+    ,"size":3
+    ,"imports":["Stable Isotope","Radio Isotopes","Molecular Genetic"]
+    ,"exports":[]
+  },
+  {
+     "name":"Hamaker"
+    ,"size":3
+    ,"imports":["Heavy Metal"]
+    ,"exports":[]
+  },
+  {
+     "name":"Jafvert and Filley"
+    ,"size":3
+    ,"imports":["Heavy Metal"]
+    ,"exports":[]
+  },
+  {
+     "name":"Ma and Zanotti"
+    ,"size":3
+    ,"imports":["Survey"]
+    ,"exports":[]
+  },
+  {
+     "name":"McMillan"
+    ,"size":3
+    ,"imports":["Heavy Metal","Dissolved Carbon/Nitrogen","Anion/Cation","pH","Nutrients","microbiology"]
+    ,"exports":[]
+  },
+  {
+     "name":"Michalski and Welp"
+    ,"size":3
+    ,"imports":["Stable Isotope","Heavy Metal","Cation/anion"]
+    ,"exports":[]
+  },
+  {
+     "name":"Min"
+    ,"size":3
+    ,"imports":["Undecided"]
+    ,"exports":[]
+  },
+  {
+     "name":"Mohammadi and Cui"
+    ,"size":3
+    ,"imports":["Molecular Genetic","Physiology"]
+    ,"exports":[]
+  },
+  {
+     "name":"Oliver and Deering"
+    ,"size":3
+    ,"imports":["Pathogenicity"]
+    ,"exports":[]
+  },
+  {
+     "name":"Panigrahi"
+    ,"size":3
+    ,"imports":["Heavy Metal"]
+    ,"exports":[]
+  },
+
+  {
+     "name":" "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+  },
+  {
+     "name":"  "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+  },
+  {
+     "name":"Anion/Cation"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Soil","Water"]
+  },
+  {
+     "name":"Cation/anion"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Air","Water"]
+  },
+  {
+     "name":"Data Mining"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Historical Info"]
+  },
+  {
+     "name":"Dissolved Carbon/Nitrogen"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Soil","Water"]
+  },
+  {
+     "name":"Heavy Metal"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Air","Food ","Plant","Soil", "Water"]
+  },
+  {
+     "name":"microbiology"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Soil"]
+  },
+  {
+     "name":"Molecular Genetic"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Plant","Water"]
+  },
+  {
+     "name":"Nutrients"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Soil","Water"]
+  },
+  {
+     "name":"Organic Matter Quality"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Soil"]
+  },
+  {
+     "name":"Pathogenicity"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Food "]
+  },
+  {
+     "name":"pH"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Soil","Water"]
+  },
+  {
+     "name":"Physical Analysis"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Soil"]
+  },
+  {
+     "name":"Physiology"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Plant"]
+  },
+  {
+     "name":"Questionaire/Survey"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Human Dimensions"]
+  },
+  {
+     "name":"Radio Isotopes"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Water"]
+  },
+  {
+     "name":"Stable Isotope"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Air","Water"]
+  },
+  {
+     "name":"Survey"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Human Dimensions"]
+  },
+  {
+     "name":"Toxological"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Plant","Water"]
+  },
+  {
+     "name":"Undecided"
+    ,"size":2
+    ,"imports":[]
+    ,"exports":["Historical Info","Sediment","Water"]
+  },
+  {
+     "name":"   "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+  },
+  {
+     "name":"    "
+    ,"size":10
+    ,"imports":[]
+    ,"exports":[]
+  },
+  {
+     "name":"Air"
+    ,"size":1
+    ,"imports":["Michalski and Welp"]
+    ,"exports":[]
+  },
+  {
+     "name":"Food "
+    ,"size":1
+    ,"imports":["Hamaker","Oliver and Deering"]
+    ,"exports":[]
+  },
+  {
+     "name":"Historical Info"
+    ,"size":1
+    ,"imports":["Elwakil","Bowling","Ebert","Filley"]
+    ,"exports":[]
+  },
+  {
+     "name":"Human Dimensions"
+    ,"size":1
+    ,"imports":["Elwakil","Ebert","Ma and Zanotti"]
+    ,"exports":[]
+  },
+  {
+     "name":"Plant"
+    ,"size":1
+    ,"imports":["Panigrahi","Mohammadi and Cui","Deering and Oliver","McMillan"]
+    ,"exports":[]
+  },
+  {
+     "name":"Sediment"
+    ,"size":1
+    ,"imports":["Min"]
+    ,"exports":[]
+  },
+  {
+     "name":"Soil"
+    ,"size":1
+    ,"imports":["Panigrahi","McMillan","Bowling","Filley"]
+    ,"exports":[]
+  },
+  {
+     "name":"Water"
+    ,"size":1
+    ,"imports":["Panigrahi","Frisbee and Welp","Min","Jafvert and Filley","Deering and Oliver","Michalski and Welp","McMillan","Bowling"]
+    ,"exports":[]
+  }
+]

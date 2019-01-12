@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Lynnhan95">
+</head>
+<link href="style.css" rel="stylesheet" type="text/css">
+<body>
+  <h1>Social Network Visualization</h1>
+<div class="flexDiv">
+  <div class="mainSvg"></div>
+  <div class="wrapper">
+  <div class="CEETeam">
+    <svg class="chart" width="500" height="100" role="img">
+      <desc id="desc">4 apples; 8 bananas; 15 kiwis; 16 oranges; 23 lemons</desc>
+      <g class="bar">
+        <rect id="rect1" x="50"></rect>
+        <text x="50" y="24" dy=".35em">COP21</text>
+      </g>
+      <g class="bar">
+        <rect id="rect2" x="235"></rect>
+        <text x="235" y="24" dy=".35em">WCC</text>
+      </g>
+        <text x="345" y="24" dy=".35em" style="fill:#000">CEE Team</text>
+      <g class="bar"></g>
+    </svg>
+  </div>
+  <div class="content" id="proj_desc">
+    <h2 class="network">Network Description</h2>
+    <p>Presence to influence is a multi-sited, multi-year collaborative research project lead by Kimberly Marion Suiseeya (Northwestern University) and Laura Zanotti (Purdue University) that seeks to understand how marginalized and underrepresented groups in global environmental governance access and influence these governance processes. 
+      <br></p>
+      <p>Our sites currently include two main events, the 2015 Paris Climate Summit (COP21) and the 2016 World Conservation Congress. 
+      For more information see: </p>
+      <p><a href="www.presence2influence.org">www.presence2influence.org</a></p>
+  </div>
+</div>
+</div>
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="main.js"></script>
+</body>
